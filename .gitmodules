@@ -1,0 +1,3 @@
+[submodule "Evalue"]
+	path = Evalue
+	url = https://github.com/Sattvaden/Evalue.git
